@@ -1,0 +1,9 @@
+streamlit
+pymongo
+google-api-python-client
+sqlalchemy
+streamlit_option_menu
+mysql
+pymysql
+pandas
+numpy
