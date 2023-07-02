@@ -18,4 +18,5 @@ This project aims to develop a user-friendly Streamlit application that utilizes
 
 The project is a great way to learn about these technologies and to build a valuable tool for analyzing YouTube channel data.
 
-![Capture01](https://github.com/spriharsingh/YoutubeDataHarvesting/assets/137130903/d3445b0c-af0d-4eb5-adbc-fca5b3039069)
+![Capture01](https://github.com/spriharsingh/YoutubeDataHarvesting/assets/137130903/4dd79921-9fda-4b85-abef-905eb4c5a076)
+
